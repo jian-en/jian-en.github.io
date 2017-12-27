@@ -1,3 +1,3 @@
-# 我是谁?
+# 就是随笔
 
-[thoughts](blogs/thoughts/)
+[从现在开始，每天写点东西](blogs/thoughts/begin-writing.md)
